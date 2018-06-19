@@ -1,7 +1,7 @@
 var numQuestions = questions.length;
 var currentQuestion = -1;
-var startingTime = 45;
-var timeLeft = 45;
+var startingTime = 60;
+var timeLeft = 60;
 var currentAnswer;
 var numCorrect = 0;
 var numIncorrect = 0;
