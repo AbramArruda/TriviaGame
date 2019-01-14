@@ -61,7 +61,7 @@ var questions = [
     question: "Which of the following has more bones?",
     answers: ["Baby", "Teenager", "Adult", "All are the same"],
     correctAnswer: "Baby",
-    image: "assets/images/belding.gif"
+    image: "https://media.giphy.com/media/Xw6yFn7frR3Y4/giphy.gif"
   }
 ];
 
