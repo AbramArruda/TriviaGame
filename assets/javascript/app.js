@@ -49,13 +49,13 @@ var questions = [
       "African Bush Elephant"
     ],
     correctAnswer: "Sperm Whale",
-    image: "assets/images/fresh.gif"
+    image: "https://media.giphy.com/media/3oKIPku6fonFMEY2aI/source.gif"
   },
   {
     question: " What was the first genetically engineered organism?",
     answers: ["Sheep", "Corn", "Tobacco", "Rat"],
     correctAnswer: "Tobacco",
-    image: "assets/images/skeeter.gif"
+    image: "https://media.giphy.com/media/9zShyX9TXDzBC/giphy.gif"
   },
   {
     question: "Which of the following has more bones?",
