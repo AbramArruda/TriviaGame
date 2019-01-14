@@ -6,6 +6,7 @@ body {
 body {
   text-align: center;
   background-image: url("../images/cells.jpg");
+  background-repeat: no-repeat;
 }
 
 #wrapper {
@@ -13,7 +14,7 @@ body {
   height: 95%;
   box-sizing: border-box;
   margin: 2.5% auto;
-  background-color: #fff17a;
+  background-color: black;
 }
 
 #sub-wrapper {

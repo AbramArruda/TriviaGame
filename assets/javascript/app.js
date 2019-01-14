@@ -19,26 +19,26 @@ var questions = [
       "Luminary Effervescence"
     ],
     correctAnswer: "Bioluminescence",
-    image: "assets/images/spicegirls.gif"
+    image: "https://media.giphy.com/media/Z5K7xjucNYrVm/giphy.gif"
   },
   {
     question: "Unlike most other fish, sharks have no _____?",
     answers: ["Liver", "Gills", "Heart", "Bones"],
     correctAnswer: "Bones",
-    image: "assets/images/bulls.gif"
+    image: "https://media.giphy.com/media/u36Ow6jBvWCFW/giphy.gif"
   },
   {
     question: "What human organ cleans 50 gallons of blood a day?",
     answers: ["Kidneys", "Liver", "Heart", "Pancreas"],
     correctAnswer: "Kidneys",
-    image: "assets/images/nirvanabark.gif"
+    image: "https://media.giphy.com/media/cIIlwcHQjjlCOXZVjW/source.mp4"
   },
   {
     question:
       "What illness accounted for 40 percent of U. S. military casualties during World War I?",
     answers: ["Smallpox", "Influenza", "Syphilis", "Gangrene"],
     correctAnswer: "Influenza",
-    image: "assets/images/lionking.gif"
+    image: "https://media.giphy.com/media/3oKIP657aH5QRMkX3q/source.gif"
   },
   {
     question: "What living animal has the heaviest brain",
