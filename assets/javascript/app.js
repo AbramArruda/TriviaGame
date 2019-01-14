@@ -41,23 +41,26 @@ var questions = [
     image: "assets/images/lionking.gif"
   },
   {
-    question:
-      'Finish this line from the Fresh Prince of Bel-Air theme song: "I whistled for a cab and when it came near, the license plate said..."',
-    answers: ["Dice", "Mirror", "Fresh", "Cab"],
-    correctAnswer: "Fresh",
+    question: "What living animal has the heaviest brain",
+    answers: [
+      "Blue Whale",
+      "Black Rhinoceros",
+      "Sperm Whale",
+      "African Bush Elephant"
+    ],
+    correctAnswer: "Sperm Whale",
     image: "assets/images/fresh.gif"
   },
   {
-    question: "What was Doug's best friend's name?",
-    answers: ["Skeeter", "Mark", "Zach", "Cody"],
-    correctAnswer: "Skeeter",
+    question: " What was the first genetically engineered organism?",
+    answers: ["Sheep", "Corn", "Tobacco", "Rat"],
+    correctAnswer: "Tobacco",
     image: "assets/images/skeeter.gif"
   },
   {
-    question:
-      "What was the name of the principal at Bayside High in Saved By The Bell?",
-    answers: ["Mr.Zhou", "Mr.Driggers", "Mr.Belding", "Mr.Page"],
-    correctAnswer: "Mr.Belding",
+    question: "Which of the following has more bones?",
+    answers: ["Baby", "Teenager", "Adult", "All are the same"],
+    correctAnswer: "Baby",
     image: "assets/images/belding.gif"
   }
 ];
