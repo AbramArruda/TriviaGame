@@ -22,26 +22,22 @@ var questions = [
     image: "assets/images/spicegirls.gif"
   },
   {
-    question: "Which NBA team won the most titles in the 90s?",
-    answers: [
-      "New York Knicks",
-      "Portland Trailblazers",
-      "Los Angeles Lakers",
-      "Chicago Bulls"
-    ],
-    correctAnswer: "Chicago Bulls",
+    question: "Unlike most other fish, sharks have no _____?",
+    answers: ["Liver", "Gills", "Heart", "Bones"],
+    correctAnswer: "Bones",
     image: "assets/images/bulls.gif"
   },
   {
-    question: "Which group released the hit song, 'Smells Like Teen Spirit'?",
-    answers: ["Nirvana", "Backstreet Boys", "The Offspring", "No Doubt"],
-    correctAnswer: "Nirvana",
+    question: "What human organ cleans 50 gallons of blood a day?",
+    answers: ["Kidneys", "Liver", "Heart", "Pancreas"],
+    correctAnswer: "Kidneys",
     image: "assets/images/nirvanabark.gif"
   },
   {
-    question: 'Which popular Disney movie featured the song, "Circle of Life"?',
-    answers: ["Aladdin", "Hercules", "Mulan", "The Lion King"],
-    correctAnswer: "The Lion King",
+    question:
+      "What illness accounted for 40 percent of U. S. military casualties during World War I?",
+    answers: ["Smallpox", "Influenza", "Syphilis", "Gangrene"],
+    correctAnswer: "Influenza",
     image: "assets/images/lionking.gif"
   },
   {
