@@ -7,7 +7,7 @@ var questions = [
     question: "What is the most common element in the human body?",
     answers: ["Carbon", "Hydrogen", "Oxygen", "Calcium"],
     correctAnswer: "Oxygen",
-    image: "assets/images/toystory.gif"
+    image: "https://media.giphy.com/media/xT9IgmI3DZkt15qgWk/giphy.gif"
   },
   {
     question:
